@@ -3,11 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-<<<<<<< HEAD
-# adding config.py
-=======
 # adding config.py file
->>>>>>> cba35538e5573493c8a1fe752c37b0e706bd53d7
 config.py
 
 # adding additional files
