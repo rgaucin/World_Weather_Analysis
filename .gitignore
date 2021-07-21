@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# adding config.py file
+# adding config.py
 config.py
 
 # adding additional files
